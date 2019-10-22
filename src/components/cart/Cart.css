@@ -1,0 +1,31 @@
+.cart__img img {
+    display: block;
+    width: 115px;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.cart__desc {
+    text-align: left;
+}
+
+.cart__price {
+    font-size: 25px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+.hidden__totalPrice {
+    display: none;
+}
+
+.show__totalPrice {
+    display: block;
+}
+
+.btn.cart__btn {
+    margin: 0 10px 10px 10px;
+    font-size: 20px;
+    color: #CE11CB;
+    background: none;
+}
